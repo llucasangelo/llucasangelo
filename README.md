@@ -1,3 +1,3 @@
-## Hello, i'm Lucas Angelo
+## Hello, I'm Lucas Angelo
 
-##About Me
+## About Me

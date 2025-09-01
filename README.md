@@ -19,4 +19,8 @@ Alguns projetos que já desenvolvi e compartilhei no GitHub:
 
 ## GitHub Stats
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasangelo&layout=compact&theme=dracula)  
+<div align="center">
+  <a href="https://github.com/joaovictor-ferreira">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasangelo&theme=aura&hide_border=false&layout=compact"/>
+  </a>
+</div>

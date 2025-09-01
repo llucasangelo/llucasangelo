@@ -18,6 +18,5 @@ Alguns projetos que já desenvolvi e compartilhei no GitHub:
 
 
 ## GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=llucasangelo&show_icons=true&theme=dracula)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasangelo&layout=compact&theme=dracula)  

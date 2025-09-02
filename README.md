@@ -25,7 +25,7 @@ Some of the projects I share here on GitHub:
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/joaovictor-ferreira">
+  <a href="https://github.com/llucasangelo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasangelo&theme=aura&hide_border=false&layout=compact"/>
   </a>
 </div>

@@ -1,16 +1,21 @@
 # Hello, I'm Lucas Angelo
 
 ## About me
-Sou Engenheiro Eletricista e de software apaixonado por **tecnologia, automação e desenvolvimento de software**.  
-Tenho experiência em projetos de painéis elétricos, programação de IHMs, sistemas de envase automatizados e também estou expandindo meus conhecimentos em **TI, programação e IoT**.  
+I am an **Electrical and Software Engineer** with a specialization in **Project Management**, currently focused on **web development** and building solutions that integrate **hardware and software**.  
 
+Experienced with:  
+- 🌐 **HTML5, CSS3, JavaScript, and TypeScript**  
+- ⚡ **C++** for embedded systems and automation  
+- 🔌 IoT device integration with virtual assistants  
 
-## Projects
-Alguns projetos que já desenvolvi e compartilhei no GitHub:
-- 💡 **LoveBox** – dispositivo IoT com NodeMCU e LCD que envia/recebe mensagens.
-- ⚙️ **Sistema de envase automático** – controle por Nextion, motor de passo, sensores e válvulas.
-- 🖥️ **Servidores pessoais** – configuração de Nextcloud, Samba e Linux embarcado em mini PCs.
-- 🎨 **Modelagem 3D** – peças funcionais criadas no Fusion 360 para impressão 3D.
+I am **Cambridge-certified in English**, work well in **remote environments**, and enjoy contributing to projects that make a real impact.  
+
+## Featured Projects
+Some of the projects I share here on GitHub:  
+- 🌐 **Web Pages** – responsive websites built with HTML, CSS, and JavaScript.  
+- 💡 [**LoveBox**](https://github.com/llucasangelo/LoveBox) – IoT device with NodeMCU and LCD for sending and receiving messages.  
+- 🎨 [**ControlRGB**](https://github.com/llucasangelo/ControlRGB) – IoT controller for LED strips, integrated with Alexa.  
+- 🖼️ [**PictureFrame**](https://github.com/llucasangelo/PictureFrame) – custom LED photo frame/lamp built with Arduino.  
 
 ## Contact
 - ✉️ E-mail: [lucasangelo.eng@hotmail.com](mailto:lucasangelo.eng@hotmail.com)  

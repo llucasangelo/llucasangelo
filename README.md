@@ -14,8 +14,8 @@ I am **Cambridge-certified in English**, work well in **remote environments**, a
 Some of the projects I share here on GitHub:  
 - 🌐 **Web Pages** – responsive websites built with HTML, CSS, and JavaScript.  
 - 💡 [**LoveBox**](https://github.com/llucasangelo/LoveBox) – IoT device with NodeMCU and LCD for sending and receiving messages.  
-- 🎨 [**ControlRGB**](https://github.com/llucasangelo/ControlRGB) – IoT controller for LED strips, integrated with Alexa.  
-- 🖼️ [**PictureFrame**](https://github.com/llucasangelo/PictureFrame) – custom LED photo frame/lamp built with Arduino.  
+- 🎨 [**ControlRGB**](https://github.com/llucasangelo/ESP8266-Alexa-RGB-LED-Strip-Control) – IoT controller for LED strips, integrated with Alexa.  
+- 🖼️ [**PictureFrame**]([https://github.com/llucasangelo/PictureFrame](https://github.com/llucasangelo/Picture-Frame-Lamp)) – custom LED photo frame/lamp built with Arduino.  
 
 ## Contact
 - ✉️ E-mail: [lucasangelo.eng@hotmail.com](mailto:lucasangelo.eng@hotmail.com)  
